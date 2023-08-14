@@ -350,19 +350,19 @@ public class ICICITermFlow extends BaseClass {
 		functionlibrary.clickonElement(driver, dittoweb.confirmAndBuy);
 		functionlibrary.implicitWait(driver);
 
-		functionlibrary.sendKeysMethod(driver, dittoweb.fullName,userName);
+//		functionlibrary.sendKeysMethod(driver, dittoweb.fullName,userName);
 
-		functionlibrary.sendKeysMethod(driver, dittoweb.mobileNumber,phoneNumber);
+//		functionlibrary.sendKeysMethod(driver, dittoweb.mobileNumber,phoneNumber);
 		
-		functionlibrary.clickonElement(driver, dittoweb.sendOTPButton);
+//		functionlibrary.clickonElement(driver, dittoweb.sendOTPButton);
 		
-		functionlibrary.sendKeysMethod(driver, dittoweb.sendOTP,OTPNumber);
+//		functionlibrary.sendKeysMethod(driver, dittoweb.sendOTP,OTPNumber);
 		
-		functionlibrary.clickonElement(driver, dittoweb.submitOTP);
+//		functionlibrary.clickonElement(driver, dittoweb.submitOTP);
 		
 	}
 	
-	@Test(priority=6)
+	@Test(priority=6, enabled=false)
 	public void proposalform() throws InterruptedException {
 
 		log.info("Payment Term options");

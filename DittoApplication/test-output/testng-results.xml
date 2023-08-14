@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="7" passed="5" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-14T16:05:01 IST" name="Ditto Web Application" finished-at="2023-08-14T16:05:42 IST" duration-ms="40462">
+  <suite started-at="2023-08-14T17:35:54 IST" name="Ditto Web Application" finished-at="2023-08-14T17:36:35 IST" duration-ms="41447">
     <groups>
     </groups>
-    <test started-at="2023-08-14T16:05:01 IST" name="Term Test" finished-at="2023-08-14T16:05:42 IST" duration-ms="40462">
+    <test started-at="2023-08-14T17:35:54 IST" name="Term Test" finished-at="2023-08-14T17:36:35 IST" duration-ms="41447">
       <class name="com.testcases.ICICITermFlow">
-        <test-method is-config="true" signature="startReport()[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:01 IST" name="startReport" finished-at="2023-08-14T16:05:02 IST" duration-ms="216" status="PASS">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:35:54 IST" name="startReport" finished-at="2023-08-14T17:35:54 IST" duration-ms="234" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startReport -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:02 IST" name="setup" finished-at="2023-08-14T16:05:07 IST" duration-ms="5598" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:35:54 IST" name="setup" finished-at="2023-08-14T17:35:59 IST" duration-ms="5229" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,11 +22,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="DWATitleVerification()[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:07 IST" name="DWATitleVerification" finished-at="2023-08-14T16:05:08 IST" duration-ms="1186" status="PASS">
+        <test-method signature="DWATitleVerification()[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:35:59 IST" name="DWATitleVerification" finished-at="2023-08-14T17:36:01 IST" duration-ms="1604" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DWATitleVerification -->
-        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:08 IST" name="getResult" finished-at="2023-08-14T16:05:08 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:01 IST" name="getResult" finished-at="2023-08-14T17:36:01 IST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,11 +37,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method signature="tellUsAboutPage()[pri:1, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:08 IST" name="tellUsAboutPage" finished-at="2023-08-14T16:05:11 IST" duration-ms="2226" status="PASS">
+        <test-method signature="tellUsAboutPage()[pri:1, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:01 IST" name="tellUsAboutPage" finished-at="2023-08-14T17:36:03 IST" duration-ms="2502" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tellUsAboutPage -->
-        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:11 IST" name="getResult" finished-at="2023-08-14T16:05:11 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:03 IST" name="getResult" finished-at="2023-08-14T17:36:03 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -52,11 +52,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method signature="aBitAboutYourLifestylePage()[pri:2, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:11 IST" name="aBitAboutYourLifestylePage" finished-at="2023-08-14T16:05:12 IST" duration-ms="1541" status="PASS">
+        <test-method signature="aBitAboutYourLifestylePage()[pri:2, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:03 IST" name="aBitAboutYourLifestylePage" finished-at="2023-08-14T17:36:05 IST" duration-ms="1579" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aBitAboutYourLifestylePage -->
-        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:12 IST" name="getResult" finished-at="2023-08-14T16:05:12 IST" duration-ms="2" status="PASS">
+        <test-method signature="recommendedCover()[pri:3, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:05 IST" name="recommendedCover" finished-at="2023-08-14T17:36:11 IST" duration-ms="6464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recommendedCover -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:05 IST" name="getResult" finished-at="2023-08-14T17:36:05 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -67,11 +71,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method signature="recommendedCover()[pri:3, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:12 IST" name="recommendedCover" finished-at="2023-08-14T16:05:18 IST" duration-ms="5906" status="PASS">
+        <test-method signature="paymentTermOptions()[pri:4, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:12 IST" name="paymentTermOptions" finished-at="2023-08-14T17:36:12 IST" duration-ms="553" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- recommendedCover -->
-        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:18 IST" name="getResult" finished-at="2023-08-14T16:05:18 IST" duration-ms="0" status="PASS">
+        </test-method> <!-- paymentTermOptions -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:12 IST" name="getResult" finished-at="2023-08-14T17:36:12 IST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -82,22 +86,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method signature="paymentTermOptions()[pri:4, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:18 IST" name="paymentTermOptions" finished-at="2023-08-14T16:05:19 IST" duration-ms="632" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- paymentTermOptions -->
-        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:19 IST" name="getResult" finished-at="2023-08-14T16:05:19 IST" duration-ms="2" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=paymentTermOptions status=SUCCESS method=ICICITermFlow.paymentTermOptions()[pri:4, instance:com.testcases.ICICITermFlow@548a24a] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getResult -->
-        <test-method signature="addeExtraProtection()[pri:5, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:19 IST" name="addeExtraProtection" finished-at="2023-08-14T16:05:30 IST" duration-ms="11645" status="FAIL">
+        <test-method signature="addeExtraProtection()[pri:5, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:12 IST" name="addeExtraProtection" finished-at="2023-08-14T17:36:24 IST" duration-ms="11747" status="FAIL">
           <exception class="org.openqa.selenium.ElementNotInteractableException">
             <message>
               <![CDATA[element not interactable
@@ -105,10 +94,10 @@
 Build info: version: '4.8.3', revision: 'e5e76298c3'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [7ba0d7089afbad864cb389e351a425cd, sendKeysToElement {id=6ECDC001257689932DFA3BB51EBD81E3_element_187, value=[Ljava.lang.CharSequence;@47187f50}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\aravi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55294}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55294/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on WINDOWS (7ba0d7089afbad864cb389e351a425cd)] -> xpath: //input[@name='otp']]
-Session ID: 7ba0d7089afbad864cb389e351a425cd]]>
+Command: [c5e6f479efb7da9f1ef574928792490f, sendKeysToElement {id=8E4A4C75C43FF6F25F89FEBDB81D4793_element_188, value=[Ljava.lang.CharSequence;@29c53c4f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\aravi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56145}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56145/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (c5e6f479efb7da9f1ef574928792490f)] -> xpath: //input[@name='otp']]
+Session ID: c5e6f479efb7da9f1ef574928792490f]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
@@ -116,10 +105,10 @@ Session ID: 7ba0d7089afbad864cb389e351a425cd]]>
 Build info: version: '4.8.3', revision: 'e5e76298c3'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [7ba0d7089afbad864cb389e351a425cd, sendKeysToElement {id=6ECDC001257689932DFA3BB51EBD81E3_element_187, value=[Ljava.lang.CharSequence;@47187f50}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\aravi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55294}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55294/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on WINDOWS (7ba0d7089afbad864cb389e351a425cd)] -> xpath: //input[@name='otp']]
-Session ID: 7ba0d7089afbad864cb389e351a425cd
+Command: [c5e6f479efb7da9f1ef574928792490f, sendKeysToElement {id=8E4A4C75C43FF6F25F89FEBDB81D4793_element_188, value=[Ljava.lang.CharSequence;@29c53c4f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\aravi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56145}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56145/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (c5e6f479efb7da9f1ef574928792490f)] -> xpath: //input[@name='otp']]
+Session ID: c5e6f479efb7da9f1ef574928792490f
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -170,7 +159,18 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addeExtraProtection -->
-        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:30 IST" name="getResult" finished-at="2023-08-14T16:05:31 IST" duration-ms="380" status="PASS">
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:12 IST" name="getResult" finished-at="2023-08-14T17:36:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=paymentTermOptions status=SUCCESS method=ICICITermFlow.paymentTermOptions()[pri:4, instance:com.testcases.ICICITermFlow@548a24a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:24 IST" name="getResult" finished-at="2023-08-14T17:36:24 IST" duration-ms="400" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -181,7 +181,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method signature="proposalform()[pri:6, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:31 IST" name="proposalform" finished-at="2023-08-14T16:05:41 IST" duration-ms="10020" status="FAIL">
+        <test-method signature="proposalform()[pri:6, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:24 IST" name="proposalform" finished-at="2023-08-14T17:36:34 IST" duration-ms="10079" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Start')]"}
@@ -190,9 +190,9 @@ For documentation on this error, please visit: https://selenium.dev/exceptions/#
 Build info: version: '4.8.3', revision: 'e5e76298c3'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [7ba0d7089afbad864cb389e351a425cd, findElement {using=xpath, value=//span[contains(text(),'Start')]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\aravi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55294}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55294/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 7ba0d7089afbad864cb389e351a425cd]]>
+Command: [c5e6f479efb7da9f1ef574928792490f, findElement {using=xpath, value=//span[contains(text(),'Start')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\aravi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56145}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56145/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c5e6f479efb7da9f1ef574928792490f]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Start')]"}
@@ -201,9 +201,9 @@ For documentation on this error, please visit: https://selenium.dev/exceptions/#
 Build info: version: '4.8.3', revision: 'e5e76298c3'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [7ba0d7089afbad864cb389e351a425cd, findElement {using=xpath, value=//span[contains(text(),'Start')]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\aravi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55294}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55294/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 7ba0d7089afbad864cb389e351a425cd
+Command: [c5e6f479efb7da9f1ef574928792490f, findElement {using=xpath, value=//span[contains(text(),'Start')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.171, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\aravi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56145}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56145/devtoo..., se:cdpVersion: 115.0.5790.171, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c5e6f479efb7da9f1ef574928792490f
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -256,7 +256,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- proposalform -->
-        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:41 IST" name="getResult" finished-at="2023-08-14T16:05:41 IST" duration-ms="334" status="PASS">
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:34 IST" name="getResult" finished-at="2023-08-14T17:36:35 IST" duration-ms="249" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -267,7 +267,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method is-config="true" signature="endReport()[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T16:05:41 IST" name="endReport" finished-at="2023-08-14T16:05:42 IST" duration-ms="718" status="PASS">
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.testcases.ICICITermFlow@548a24a]" started-at="2023-08-14T17:36:35 IST" name="endReport" finished-at="2023-08-14T17:36:35 IST" duration-ms="747" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->
