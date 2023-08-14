@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Ditto Web Application">
+
+	<listeners>
+		<listerner class-name="com.utilites.Reporting" />
+	</listeners>
+	
+	<test name="Term Test">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="com.testcases.ICICITermFlow" />
+		</classes>
+	</test>
+</suite>
