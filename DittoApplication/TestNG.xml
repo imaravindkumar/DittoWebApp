@@ -12,4 +12,5 @@
 			<class name="com.testcases.ICICITermFlow" />
 		</classes>
 	</test>
+	
 </suite>
