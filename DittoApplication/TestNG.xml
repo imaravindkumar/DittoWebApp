@@ -7,7 +7,7 @@
 	</listeners>
 	
 	<test name="Term Test">
-		<parameter name="browser" value="chrome" />
+		<parameter name="browser" value="Chrome" />
 		<classes>
 			<class name="com.testcases.ICICITermFlow" />
 		</classes>
